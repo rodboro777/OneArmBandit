@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OneArmBandit</string>
+    <string name="roll">Roll</string>
+    <string name="spins">Spins</string>
+    <string name="wins">Wins</string>
+    <string name="credits">CREDITS</string>
+    <string name="ratio">Ratio</string>
+    <string name="top_up_50">TOP UP 50</string>
+    <string name="_50">+50</string>
+    <string name="_20">+20</string>
+</resources>
